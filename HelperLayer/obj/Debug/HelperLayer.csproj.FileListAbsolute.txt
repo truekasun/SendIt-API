@@ -1,0 +1,5 @@
+C:\Users\kasun\Documents\Visual Studio 2015\Projects\SendIt\HelperLayer\bin\Debug\HelperLayer.dll
+C:\Users\kasun\Documents\Visual Studio 2015\Projects\SendIt\HelperLayer\bin\Debug\HelperLayer.pdb
+C:\Users\kasun\Documents\Visual Studio 2015\Projects\SendIt\HelperLayer\obj\Debug\HelperLayer.csprojResolveAssemblyReference.cache
+C:\Users\kasun\Documents\Visual Studio 2015\Projects\SendIt\HelperLayer\obj\Debug\HelperLayer.dll
+C:\Users\kasun\Documents\Visual Studio 2015\Projects\SendIt\HelperLayer\obj\Debug\HelperLayer.pdb
