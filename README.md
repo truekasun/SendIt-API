@@ -31,6 +31,7 @@ Test the API
 - You may need a [REST/HTTP Client][4] or a well written JavaScript web application in-order to test the API.
 - I use [POSTMAN][4] (a Google Chrome App) through this testing scenario
 - Request method should be selected as **POST** since we are going to do a POST request to the API.
+
 #### Step 2:
 - URI should be the website address + /api/Send/ (**Ex:** http://localhost:10129/api/Send/)
 - Then the HTTP Header 'Content-Type' should be set to 'application/json', since we pass a json object to the API action that we are going to call.
