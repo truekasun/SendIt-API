@@ -1,5 +1,7 @@
 SendIt! - API
 -------------
+![Landing page of the API](http://i.imgur.com/m6BZ9yG.png)
+
 **SendIt - API** is a MVC Web API 2.0 application that allows to accept POST requests from the front-end and redistribute the email through Elastic Email servers.
 
 >**Note:**
