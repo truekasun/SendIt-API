@@ -3,3 +3,7 @@ C:\Users\kasun\Documents\Visual Studio 2015\Projects\SendIt\HelperLayer\bin\Debu
 C:\Users\kasun\Documents\Visual Studio 2015\Projects\SendIt\HelperLayer\obj\Debug\HelperLayer.csprojResolveAssemblyReference.cache
 C:\Users\kasun\Documents\Visual Studio 2015\Projects\SendIt\HelperLayer\obj\Debug\HelperLayer.dll
 C:\Users\kasun\Documents\Visual Studio 2015\Projects\SendIt\HelperLayer\obj\Debug\HelperLayer.pdb
+E:\GitHub\SendIt\HelperLayer\bin\Debug\HelperLayer.dll
+E:\GitHub\SendIt\HelperLayer\bin\Debug\HelperLayer.pdb
+E:\GitHub\SendIt\HelperLayer\obj\Debug\HelperLayer.dll
+E:\GitHub\SendIt\HelperLayer\obj\Debug\HelperLayer.pdb

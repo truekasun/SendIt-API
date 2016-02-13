@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Framework\Mailer.cs" />
     <Compile Include="Modals\Email.cs" />
+    <Compile Include="Modals\SendResult.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

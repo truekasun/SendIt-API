@@ -6,7 +6,7 @@
 @model Collection<ApiDescription>
 
 @{
-    ViewBag.Title = "ASP.NET Web API Help Page";
+    ViewBag.Title = "SendIt - API Help Page";
 
     // Group APIs by controller
     ILookup<HttpControllerDescriptor, ApiDescription> apiGroups = Model.ToLookup(api => api.ActionDescriptor.ControllerDescriptor);
@@ -23,9 +23,12 @@
 <div id="body" class="help-page">
     <section class="featured">
         <div class="content-wrapper">
+            <p>
+                @Html.ActionLink("Home","Index","Home", new { area = "" }, null)
+            </p>
             <h2>Introduction</h2>
             <p>
-                Provide a general description of your APIs here.
+                Use following links to get the API documentation for each action.
             </p>
         </div>
     </section>

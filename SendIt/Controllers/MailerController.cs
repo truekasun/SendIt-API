@@ -11,7 +11,7 @@ namespace SendIt.Controllers {
         public HttpResponseMessage Send(Email message) {
             var retObj = new SendResult();
 
-            if (message.To != null || message.From != null) {
+            if (message.To != null && message.From != null) {
                 var mailer = new Mailer();
                 retObj.Message = mailer.SendEmail(message);
                 
